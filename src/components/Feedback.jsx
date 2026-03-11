@@ -13,12 +13,12 @@ const Feedback = () => {
       text-center"
       >
         Customer
-        <span
-          className="underline inderline-offset-4
+        <samp
+          className="underline underline-offset-4
        decoration-1 under font-light"
         >
           feedback
-        </span>
+        </samp>
       </h1>
 
       <p
