@@ -40,7 +40,7 @@ const Navbar = () => {
           </a>
         </ul>
 
-        <button className="hidden md:block bg-white px-8 py-2 rounded-full hover:text-gray-400">
+        <button className="hidden md:block bg-white px-8 py-2 rounded-full hover:text-gray-400 cursor-grab">
           Sing up
         </button>
         <img
